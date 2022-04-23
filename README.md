@@ -1,1 +1,2 @@
-Pour les personnes non techniques qui sont un peu perdues ici : n'hésitez pas à demander un coup de main à un de vos collègues :)
+Un diplome de Master spécilisé dans la cryptographie fait à l'université de Caen
+Le nom a été effacé mais nul doute que cela appartient à notre coupable ...
