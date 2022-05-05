@@ -1,2 +1,2 @@
-Un diplome de Master spécilisé dans la cryptographie fait à l'université de Caen
+Un diplome de Master spécialisé dans la cryptographie fait à l'université de Caen
 Le nom a été effacé mais nul doute que cela appartient à notre coupable ...
